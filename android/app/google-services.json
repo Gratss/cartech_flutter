@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832501389233",
+    "project_id": "flutter-web-dev1",
+    "storage_bucket": "flutter-web-dev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832501389233:android:cefc1e0cd1f62782d74f90",
+        "android_client_info": {
+          "package_name": "com.example.kursovaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAfMGebQktlvAJIaxrYZZfbOiNxAK1_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
